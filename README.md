@@ -4,7 +4,7 @@
 
   * Send `GET` requests to an API
   * Translate api requests in Postman to api requests with Faraday
-  * Handle the response of a request
+  * Handle the response of a request   
 
 ## Lesson
 
