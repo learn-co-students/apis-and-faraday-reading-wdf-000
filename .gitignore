@@ -94,3 +94,6 @@ bower.json
 # Ignore Byebug command history file.
 .byebug_history
 *.swp
+
+# Ignore application configuration
+/config/application.yml
